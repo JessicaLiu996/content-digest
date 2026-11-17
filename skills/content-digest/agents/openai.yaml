@@ -1,0 +1,4 @@
+interface:
+  display_name: "ContentDigest"
+  short_description: "Turn long media into source-linked reading pages"
+  default_prompt: "Use $content-digest to turn this episode or transcript into an English interactive reading page with evidence and a full transcript attachment."

@@ -1,0 +1,136 @@
+{
+  "title": "Start with one useful result",
+  "subtitle": "An original example about making a small tool understandable and usable.",
+  "thesis": "The speaker argues that a small personal tool should first complete one useful path, show its evidence, and make its limits clear before expanding.",
+  "read_parts": [
+    1
+  ],
+  "events": [
+    {
+      "title": "Choose the outcome",
+      "text": "Define what a person can finish, not just what the tool contains.",
+      "insight": 1
+    },
+    {
+      "title": "Show the evidence",
+      "text": "Connect a working result to its input and tested scope.",
+      "insight": 2
+    },
+    {
+      "title": "Improve from use",
+      "text": "Let observed friction guide the next feature.",
+      "insight": 3
+    }
+  ],
+  "insights": [
+    {
+      "kind": "Speaker view",
+      "title": "Make one complete path work",
+      "claim": "The speaker puts a useful end result ahead of a long feature list. For a reading tool, the first successful path connects an important idea to the passage that supports it.",
+      "example": "A reader with limited time needs the argument, its evidence, and the conditions that might change the conclusion. Headings alone leave too much work to the reader.",
+      "limit": "Important qualifications should remain visible; hiding all of them can overstate the source.",
+      "ref": {
+        "start": 0,
+        "end": 70
+      },
+      "details": [
+        {
+          "title": "A concrete reading task",
+          "text": "The source describes someone who already has a transcript but needs the argument and its support without reading every line first.",
+          "ref": {
+            "start": 35,
+            "end": 70
+          }
+        }
+      ]
+    },
+    {
+      "kind": "Source statement",
+      "title": "An example should show how it was made",
+      "claim": "The source asks for an input, a command, and the resulting file so someone else can follow the same path.",
+      "example": "A supplied-text example can exercise the page renderer while leaving podcast acquisition and difficult-audio recognition untested.",
+      "limit": "A successful reader demo is not evidence that every stage of a media pipeline works.",
+      "ref": {
+        "start": 70,
+        "end": 105
+      },
+      "details": []
+    },
+    {
+      "kind": "Speaker view",
+      "title": "Use real friction to choose the next change",
+      "claim": "The speaker prefers to observe repeated problems before adding features. A reader struggling to locate a passage needs better navigation; a confusing claim needs a clearer explanation.",
+      "example": "An account system would not resolve either of those problems. The suggested next check is to watch a new person use the tool without a live explanation.",
+      "limit": "The speaker limits this advice to a small personal tool, not every regulated or collaborative product.",
+      "ref": {
+        "start": 105,
+        "end": 175
+      },
+      "details": [
+        {
+          "title": "After the first release",
+          "text": "Record where a reader stops and state the limitation honestly before choosing the next improvement.",
+          "ref": {
+            "start": 140,
+            "end": 175
+          }
+        }
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "text": "A clear boundary is more useful than an impressive promise.",
+      "ref": {
+        "start": 140,
+        "end": 175
+      }
+    }
+  ],
+  "chapters": [
+    {
+      "title": "A useful first outcome",
+      "text": "What should someone be able to finish?",
+      "ref": {
+        "start": 0,
+        "end": 35
+      }
+    },
+    {
+      "title": "Evidence and qualifications",
+      "text": "Why a digest needs more than headings.",
+      "ref": {
+        "start": 35,
+        "end": 70
+      }
+    },
+    {
+      "title": "An honest reproducible example",
+      "text": "What a sample does and does not prove.",
+      "ref": {
+        "start": 70,
+        "end": 105
+      }
+    },
+    {
+      "title": "Responding to repeated problems",
+      "text": "How observed use can guide scope.",
+      "ref": {
+        "start": 105,
+        "end": 140
+      }
+    },
+    {
+      "title": "Learning after release",
+      "text": "Watch a reader and state the limits.",
+      "ref": {
+        "start": 140,
+        "end": 175
+      }
+    }
+  ],
+  "notes": [
+    "This is an original authored fixture, not a real podcast or an audio transcription. Its SRT timestamps are illustrative.",
+    "This sample verifies the supplied-text reader workflow. It does not test downloading, speech recognition, or real-source timestamp accuracy."
+  ]
+}

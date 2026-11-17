@@ -1,0 +1,13 @@
+{
+  "status": "text_imported",
+  "audio_duration": 175.0,
+  "summary_status": "complete",
+  "audio_cleanup": "not_applicable",
+  "summary_parts_read": [
+    1
+  ],
+  "summary_files": [
+    "ContentDigest.html",
+    "digest.json"
+  ]
+}

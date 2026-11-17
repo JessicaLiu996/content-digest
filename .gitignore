@@ -1,0 +1,13 @@
+# Local runtime files
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+results/
+content-digest-results/
+.work/
+models/
+*.bin
