@@ -1,5 +1,7 @@
 # ContentDigest
 
+**Agent Skill · Transcription & Summarization**
+
 Turn podcasts and videos into timestamped transcripts and interactive reading pages.
 
 An Agent Skill that downloads audio from a public Apple Podcasts episode or YouTube video, transcribes it locally with whisper.cpp, and helps your coding agent build a source-linked digest after reading the full transcript. Existing TXT and SRT transcripts can skip the audio step.
